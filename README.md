@@ -14,11 +14,11 @@ QA-Tester-Portfolio-Nikeshi-Kiriwaththuduwa/
 ├── api-testing/
 │ └── postman-summary.md
 └── automation-learning/
-└── automation-roadmap.md
+│ └── automation-roadmap.md
 ``` 
 # 👩‍💻 QA Tester Portfolio – Nikeshi Kiriwaththuduwa
 
-Hi! I’m **Nikeshi**, a QA Tester with **2+ years of hands-on experience** in manual testing across web and system-based applications.
+Hi! I’m **Nikeshi**, a QA Tester with **2+ years of hands-on experience** in manual testing across mobile and web system-based applications.
 
 I specialize in **finding issues before users do**, edge-case testing, and collaborating closely with developers and product teams to deliver high-quality software. I’m currently growing my skills toward **automation testing and product operations**.
 
@@ -32,7 +32,7 @@ I specialize in **finding issues before users do**, edge-case testing, and colla
 - Regression & End-to-End Testing
 - Cross-Browser Testing
 - API Testing
-- Performance Testing (Basic)
+- Performance Testing
 - Security Testing (Basic)
 
 **Tools & Technologies**
@@ -40,8 +40,8 @@ I specialize in **finding issues before users do**, edge-case testing, and colla
 - Postman
 - JMeter
 - BrowserStack
-- Google Workspace
 - Agile / Scrum
+- Zephyr
 
 **Strengths**
 - Strong analytical thinking
@@ -87,8 +87,8 @@ While my primary experience is in manual QA, I am **passionate about automation 
 
 ## 📬 Contact
 
-- **LinkedIn:** (add your link)
-- **Email:** (add your email)
+- **LinkedIn:**(https://www.linkedin.com/in/nikeshi-kiriwaththuduwa-a3740a293/)
+- **Email:** (nikeshikiriwaththuduwa@gmail.com)
 
 Thank you for reviewing my portfolio!
 # 🔥 FireM – Fire Alarm System (Australia)
