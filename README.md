@@ -1,4 +1,17 @@
-'''## 📁 Repository Structure'''    
+QA-Tester-Portfolio-Nikeshi-Kiriwaththuduwa/
+|-- projects/
+| |-- FireM/
+| |-- BBB/
+| |-- Bennets/
+| |-- Knight-Frank/
+|-- test-artifacts/
+| |-- sample-test-cases/
+| |-- sample-bug-reports/
+| |-- sample-test-plan/
+| |-- api-testing-summary/
+|-- automation-learning/
+|-- README.md
+```   
 # 👩‍💻 QA Tester Portfolio – Nikeshi Kiriwaththuduwa
 
 Hi! I’m **Nikeshi**, a QA Tester with **2+ years of hands-on experience** in manual testing across web and system-based applications.
