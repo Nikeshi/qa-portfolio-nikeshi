@@ -1,4 +1,4 @@
-# &Share – Social Media Connection App
+# 🔗 &Share – Social Media Connection App
 
 **Type:** Mobile/Web Social Media Utility App  
 **Role:** QA Tester  
