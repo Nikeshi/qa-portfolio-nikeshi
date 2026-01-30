@@ -164,7 +164,7 @@ Worked on a reliability-critical system where accuracy and consistency were esse
 - Regression testing
 
 ## Collaboration
-Worked closely with admins and developers to ensure smooth operational workflows.
+Worked closely with clients and developers to ensure smooth operational workflows.
 # 🔗 &Share – Social Media Connection App
 
 **Type:** Mobile/Web Social Media Utility App  
