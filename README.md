@@ -20,7 +20,10 @@ QA-Tester-Portfolio-Nikeshi-Kiriwaththuduwa/
 
 Hi! I’m **Nikeshi**, a QA Tester with **2+ years of hands-on experience** in manual testing across mobile and web system-based applications.
 
-I specialize in **finding issues before users do**, edge-case testing, and collaborating closely with developers and product teams to deliver high-quality software. I’m currently growing my skills toward **automation testing and product operations**.
+I love finding issues before users do, exploring edge cases, and working closely with developers and product teams to deliver software that just works.  
+I’m currently expanding my skills into automation testing and product operations, while keeping my focus on quality and organization.  
+
+I enjoy turning tricky scenarios into clear test cases and helping teams release software with confidence..
 
 ---
 
